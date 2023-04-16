@@ -1,0 +1,9 @@
+[submodule "airbnb-user-be"]
+	path = airbnb-user-be
+	url = https://github.com/Girihanbudi/airbnb-user-be.git
+[submodule "airbnb-fe"]
+	path = airbnb-fe
+	url = https://github.com/Girihanbudi/airbnb-fe.git
+[submodule "airbnb-messaging-be"]
+	path = airbnb-messaging-be
+	url = https://github.com/Girihanbudi/airbnb-messaging-be.git
