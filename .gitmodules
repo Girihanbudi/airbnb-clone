@@ -7,3 +7,6 @@
 [submodule "airbnb-messaging-be"]
 	path = airbnb-messaging-be
 	url = https://github.com/Girihanbudi/airbnb-messaging-be.git
+[submodule "airbnb-property-be"]
+	path = airbnb-property-be
+	url = https://github.com/Girihanbudi/airbnb-property-be.git
