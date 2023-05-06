@@ -214,9 +214,13 @@ services:
       - SERVICES=s3
       - DEBUG=1
       - DATA_DIR=/tmp/localstack/data
+      - AWS_REGION=us-west-2
+      - AWS_ACCESS_KEY_ID=3d7fd04f7772ffcb04eaf7c230e452a5
+      - AWS_SECRET_ACCESS_KEY=c720d54577c644b836aaed70d37436ae
     volumes:
       - ./tmp/localstack:/tmp/localstack   
       - /var/run/docker.sock:/var/run/docker.sock
+      - ./aws:/etc/localstack/init/ready.d
 
   airbnb-proxy:
     image: nginx
