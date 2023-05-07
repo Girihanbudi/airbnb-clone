@@ -10,3 +10,6 @@
 [submodule "airbnb-property-be"]
 	path = airbnb-property-be
 	url = https://github.com/Girihanbudi/airbnb-property-be.git
+[submodule "airbnb-auth-be"]
+	path = airbnb-auth-be
+	url = https://github.com/Girihanbudi/airbnb-auth-be
