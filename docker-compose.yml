@@ -227,12 +227,12 @@ services:
     container_name: airbnb-proxy
     restart: always
     ports:
-      # - "443:443"
+      - "443:443"
       - "80:80"
     volumes:
       - ./www:/var/www:ro
       - ./conf.d:/etc/nginx/conf.d:ro
-      # - ./ssl:/etc/nginx/ssl:ro
+      - ./ssl:/etc/nginx/ssl:ro
       - ./snippets:/etc/nginx/snippets:ro
       - ./protect:/etc/nginx/protect:ro
     # depends_on:
