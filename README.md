@@ -24,6 +24,8 @@ Thanks a bunch for supporting me!
 - ✅ Using [`GraphQL`](https://graphql.org/) as a transport layer between frontend and backend services when dynamic field needed
 - ✅ Using [`Axios`](https://axios-http.com/) as a HTTP client request
 - ✅ Using [`Redis`](https://redis.io/) for storing caches
+- ✅ Using [`Elasticsearch`](https://www.elastic.co/) for storing services logs
+- ✅ Using [`Localstack`](https://localstack.cloud/) for simulating amazon product such as S3
 - ✅ Using [`Docker`](https://www.docker.com/) and [`Docker Compose`](https://docs.docker.com/compose/) for build services container
 - ✅ Using [`JWT`](https://jwt.io/) format for authentication token
 - ✅ Using [`Swagger`](https://swagger.io/) for service documentation and test RESTful API
