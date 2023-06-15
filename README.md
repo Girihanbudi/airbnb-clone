@@ -2,11 +2,6 @@
 
 > `Airbnb Clone` is a sample microservice architecture, built with Go and Typescript as a main programming language with a couple tools and technologies. We use React with NextJS framework for frontend side and Go with Gin framework for the backend sides.
 
-# ⭐ Support
-
-If you like feel free to ⭐ this repository, It will very usefull!
-Thanks a bunch for supporting me!
-
 # Table of Contents
 
 - [Techstack](#techstack)
